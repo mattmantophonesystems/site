@@ -9,28 +9,21 @@ background-color:;
 .infotop {
 background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url("pc201bgtemp8.png");
  
+
+
   background-position: center;
   background-repeat: no-repeat;
     
   background-size: 100;
-    
-  position: relative;
-    
-    
-    
-background-color: aqua;
 text-align: center;
+  position: relative;
+background-color: aqua;
 padding-top: 40;
 padding-bottom:160px;
 }
 
-.infotop h1 {
-padding-bottom: 25px;
-}
 
-.infotop p {
-font-size: 20;
-}
+
 .infobanner{
 text-align: center;
 background-color: #fdff7d;
@@ -38,19 +31,32 @@ padding: 15;
 
 }
 
+.toptext {
+text-align: center;
 
-
-
-nav {
-    background-color: antiquewhite;
-    margin: 10PX;
- text-align: center;
-    display: inline-block;
-    
 }
+
+
+.menu {
+    background-color: mediumseagreen;
+    margin: 0PX;
+    display: inline-block;
+text-align: center;
+margin-top: 20;
+}
+    
+.menu2 {
+    background-color: mediumseagreen;
+    margin: 0PX;
+    display: inline-block;
+text-align: center;
+margin-top: 20;
+    }
+
 }
 ul {
 list-style-type: none;
+text-align: center;
  
 
 }
@@ -62,6 +68,7 @@ text-align: center;
 float: left;
   margin-left:;
 margin-right: 25;
+ 
     
 }
 
@@ -69,7 +76,7 @@ ul li a {
 text-decoration-line: none;
     display: block;
   padding: 10px;
-    text-align: center;
+ text-align: center;   
   
    
 
@@ -82,21 +89,16 @@ background-color: red;
 padding-bottom: 1px;
 padding-top: 1px;
 padding-bottom:100;
+    text-align: center;
 }
 
-h2 {
-text-align: center;
-}
-p {
-text-align: center;
-
-}
 
 .services {
 background-color: green;
 padding-bottom: 1px;
 padding-top: 1px;
 padding-bottom:100;
+text-align: center;
 }
 
 .contactus {
@@ -104,6 +106,7 @@ background-color: cornflowerblue;
 padding-bottom: 1px;
 padding-top: 1px;
 padding-bottom:100;
+text-align: center;
 }
 
 
